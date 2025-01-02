@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Romaim Gianfranco Talledo Coronado
 
-## Desarrollador Web | Ingeniería de Sistemas
+Desarrollador Web | Ingeniero de Sistemas
 
 [![GitHub followers](https://img.shields.io/github/followers/RTalledo27?label=Follow&style=social)](https://github.com/RTalledo27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rtalledo27/)
@@ -47,20 +47,20 @@ Sistema para la gestión de proyectos y generalización de cotizaciones
 - **Estado**: Public
 - **Características**: 
   - Gestión integral de proyectos
-  - Sistema de gestion de roles
-  - Sistema de gestion de miembros
-  - Dashboard interactivo
-  - API REST con Django
+  - Gestión avanzada de proyectos con roles y permisos
+  - Tablero interactivo para monitorear el progreso de proyectos
+  - API REST completamente funcional con Django
 
 
 ### [AsistenteVirtualAI](https://github.com/RTalledo27/AsistenteVirtualAI)
 Asistente virtual inteligente basado en tecnologías de IA
--  **Tecnologías**: Django, OpenAI API, Angular, TypeScript
+- **Tecnologías**: Tecnologías: Django, Angular, OpenAI API
 - **Estado**: Public
 - **Características**:
   - Integración con IA
   - Procesamiento de lenguaje natural
   - Interfaz conversacional
+  - Backend robusto con soporte de IA
   - API REST con Django
 
 
