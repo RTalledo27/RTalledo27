@@ -72,7 +72,7 @@ Asistente virtual inteligente basado en tecnologías de IA
 </a>
 
 ## 📈 Gráfico de Actividad
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RTalledo27&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RTalledo27&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=58A6FF&color=58A6FF)](https://github.com/RTalledo27)
 
 ## 🏆 Trofeos de GitHub
 
