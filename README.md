@@ -24,25 +24,23 @@ Soy un Ingeniero de Sistemas y Desarrollador Web apasionado por la tecnología. 
 
 ## 🌟 Proyectos Destacados
 
-### [Wai-Gestor](https://github.com/RTalledo27/Wai-Gestor)
-Sistema de gestión de proyectos Wai Technology 2024
-- **Tecnologías**: TypeScript
+### [gestorProyectos](https://github.com/RTalledo27/gestorProyectos)
+Sistema para la gestión de proyectos y generalización de cotizaciones
+- **Tecnologías**: TypeScript, Angular, Laravel
 - **Estado**: Public
+- **Características**: 
+  - Gestión integral de proyectos
+  - Sistema de cotizaciones
+  - Dashboard interactivo
 
-### [lista-cursos-alumnos-angular-ts](https://github.com/RTalledo27/lista-cursos-alumnos-angular-ts)
-Gestión de cursos y alumnos en Angular
-- **Tecnologías**: TypeScript, Angular
+### [AsistenteVirtualAI](https://github.com/RTalledo27/AsistenteVirtualAI)
+Asistente virtual inteligente basado en tecnologías de IA
+- **Tecnologías**: Python, OpenAI API, FastAPI
 - **Estado**: Public
-
-### [api-wai](https://github.com/RTalledo27/api-wai)
-API para interacción con BD del gestor de proyectos
-- **Tecnologías**: PHP
-- **Estado**: Public
-
-### [laravel-dash](https://github.com/RTalledo27/laravel-dash)
-Dashboard desarrollado en Laravel
-- **Tecnologías**: CSS, Laravel
-- **Estado**: Public
+- **Características**:
+  - Integración con IA
+  - Procesamiento de lenguaje natural
+  - Interfaz conversacional
 
 ## 📊 Estadísticas de GitHub
 
