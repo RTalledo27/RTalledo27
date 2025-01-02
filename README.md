@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Romaim Gianfranco Talledo Coronado
 
-Desarrollador Web | Ingeniero de Sistemas
+## Desarrollador Web | Ingeniero de Sistemas
 
 [![GitHub followers](https://img.shields.io/github/followers/RTalledo27?label=Follow&style=social)](https://github.com/RTalledo27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rtalledo27/)
