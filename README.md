@@ -18,3 +18,6 @@
 ### 📫 ¡Conecta conmigo!
 - LinkedIn: [Mi Perfil](https://www.linkedin.com/in/tu-nombre)
 - Portafolio: [Mi Página](https://tuportafolio.com)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
