@@ -47,21 +47,22 @@ Sistema para la gestión de proyectos y generalización de cotizaciones
 - **Estado**: Public
 - **Características**: 
   - Gestión integral de proyectos
-  - Sistema de cotizaciones
+  - Sistema de gestion de roles
+  - Sistema de gestion de miembros
   - Dashboard interactivo
-  - API RESTful
-  - Autenticación JWT
+  - API REST con Django
+
 
 ### [AsistenteVirtualAI](https://github.com/RTalledo27/AsistenteVirtualAI)
 Asistente virtual inteligente basado en tecnologías de IA
-- **Tecnologías**: Python, Django, OpenAI API, Vue.js
+-  **Tecnologías**: Django, OpenAI API, Angular, TypeScript
 - **Estado**: Public
 - **Características**:
   - Integración con IA
   - Procesamiento de lenguaje natural
   - Interfaz conversacional
   - API REST con Django
-  - Frontend en Vue.js
+
 
 ## 📊 Estadísticas de GitHub
 
@@ -69,6 +70,9 @@ Asistente virtual inteligente basado en tecnologías de IA
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RTalledo27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTalledo27&layout=compact&langs_count=7&theme=radical"/>
 </a>
+
+## 📈 Gráfico de Actividad
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RTalledo27&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 Trofeos de GitHub
 
@@ -78,12 +82,4 @@ Asistente virtual inteligente basado en tecnologías de IA
 
 ⭐️ From [RTalledo27](https://github.com/RTalledo27)
 
-<style>
-  .tech-icon {
-    transition: transform 0.3s ease-in-out;
-  }
-  .tech-icon:hover {
-    transform: scale(1.1);
-  }
-</style>
 
